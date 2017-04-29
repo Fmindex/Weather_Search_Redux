@@ -1,8 +1,8 @@
 export default function () {
   return [
-    {title: "Focus"},
-    {title: "FM"},
-    {title: "Kuy"},
-    {title: "KUYYYYY"}
+    {title: "Focus", pages: 58},
+    {title: "FM", pages: 85},
+    {title: "Kuy", pages: 1412},
+    {title: "KUYYYYY", pages: 123}
   ];
 }
